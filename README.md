@@ -1,2 +1,12 @@
 # Student-Attendance-System
-A basic Student Attendance Management System built using Java, JDBC, and MySQL. It allows adding, updating, and viewing student attendance records through a simple interface.
+A simple Java console application to manage student attendance using JDBC with MySQL.
+
+## Features
+- Add students
+- Mark attendance
+- View attendance reports
+
+## Setup
+1. Create database using `schema.sql`.
+2. Update `DBConnection.java` with your DB credentials.
+3. Compile and run `App.java`.
